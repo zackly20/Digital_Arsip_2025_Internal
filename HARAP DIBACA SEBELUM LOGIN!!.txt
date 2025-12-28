@@ -1,0 +1,24 @@
+Cara pakai 
+Disini ada akun yang bisa dipakai sebagai admin
+username/email:admin/admin@gmail.com
+role:admin
+password:admin123
+
+cara setup aplikasi ini:
+1. install xampp
+2. buka xampp control panel
+3. Setelah itu 
+4. tekan start untuk memulai apache dan mysql
+5. buka browser dan ketik http://localhost/phpmyadmin
+6. masuk dengan username root dan password kosong
+7. buka file database.sql di folder database
+8. klik import
+9. pilih databasenya
+10. klik import
+11. selesai
+
+untuk login ke aplikasi ini:
+1. buka browser
+2. ketik http://localhost/HARAP DIBACA SEBELUM LOGIN!!/
+3. masuk dengan username dan password yang sudah di tentukan di atas
+4. selesai
